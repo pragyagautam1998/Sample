@@ -1,2 +1,2 @@
 third 3
-corrupted third
+modified file
